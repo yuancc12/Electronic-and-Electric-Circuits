@@ -43,4 +43,4 @@
 + [第十三週](https://docs.google.com/presentation/d/1Q0cs3-RpXtwv_mbLxiIdCboLvC3kK-Ms/edit?usp=drive_web&ouid=104859686814942849803&rtpof=true)
 + [第十四週](https://docs.google.com/presentation/d/1MMmX54wJBZ8QTpz0SkpOzrXbyvQtcW_v/edit?usp=drive_web&ouid=104859686814942849803&rtpof=true)
 + [第十五週](https://docs.google.com/presentation/d/1lOmzDm-EYOBvpHlMXitWJZpMLIhd87bo/edit?usp=drive_web&ouid=104859686814942849803&rtpof=true)
-+ [Sensor範例}(https://moodle3.ntnu.edu.tw/mod/folder/view.php?id=694352)
++ [Sensor範例](https://moodle3.ntnu.edu.tw/mod/folder/view.php?id=694352)
